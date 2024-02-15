@@ -2,6 +2,6 @@
 A console based number guessing game
 
 
-How to run !
+How to run ! \t
 Cargo build
 Cargo run
